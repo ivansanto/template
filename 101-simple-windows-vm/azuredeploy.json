@@ -200,7 +200,7 @@
           "bootDiagnostics": {
              "enabled": "true",
              "storageUri": "[concat('http://',parameters('newStorageAccountName'),'.blob.core.windows.net')]"
-          }
+          } 
         }
       }
     }
